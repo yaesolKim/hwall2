@@ -3,7 +3,7 @@ Texture synthesizing for encountered-type haptic rendering....
 
 ***
 ## Citation   
-If you use this sources, cite one of the following papers:
+If you use this sources, please cite one of the following papers:
 ```
 @ARTICLE{kim2021hwall2,
   author = {Y. {Kim} and S. {Kim} and U. {Oh} and Y. J. {Kim}},
